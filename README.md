@@ -13,7 +13,7 @@ Step 6: Compressing the files ending with .log format and moving it to /tmp fold
 Step 7: Moving the created tar log files to S3 bucket
 
 #Task 3
-In Task 2, we are doing the following steps
+In Task 3, we are doing the following steps
 Step 1: Creating the inventory.html file and the appending the header file to it. 
 Step 2: Iteratively extracting and printing the filename, timestamp, type of file & size of file to Inventory.html
 Step 3: Creating a cron job to run once everyday
